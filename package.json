@@ -1,0 +1,15 @@
+{
+  "name": "diffusion-art-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI art platform for kids with autism",
+  "main": "index.js",
+  "scripts": {
+    "start-server": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XXCORP INC",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
